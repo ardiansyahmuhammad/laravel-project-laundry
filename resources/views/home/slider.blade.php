@@ -8,9 +8,7 @@
                         <div class="hero__caption">
                             <h1 data-animation="fadeInLeft" data-delay="0.2s">Solusi terbaik dalam menangani pakaian kotor</h1>
                             <p data-animation="fadeInLeft" data-delay="0.4s">Clinz siap melayani</p>
-                            <a href="https://api.whatsapp.com/send/?phone=6285368759259&text&type=phone_number&app_absent=0" > <img src="home/assets/img/logo/whatsapplink.png" alt="">
-                            </a>
-                           
+                            <a href="#services" class="btn hero-btn" data-animation="fadeInLeft" data-delay="0.7s">Layanan kami</a>
                         </div>
                     </div>
                 </div>

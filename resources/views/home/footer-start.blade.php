@@ -40,8 +40,8 @@
                     <div class="footer-tittle">
                         <h4>Kontak kami</h4>
                         <ul>
-                            <li class="number"><a href="https://api.whatsapp.com/send/?phone=6285368759259&text&type=phone_number&app_absent=0">0853-6875-9259</a></li>
-                            <li><a href="https://mail.google.com/mail/u/0/?tf=cm&fs=1&to=laundryclinz@gmail.com">laundryclinz@gmail.com</a></li>
+                            <li class="number"><a href="#">0821-1231-9120</a></li>
+                            <li><a href="#">Clinz@gmail.com</a></li>
                             <li><a href="#">Jl.Sukapura,Komp.Palem2,A1.No.1</a></li>
                         </ul>
                     </div>
@@ -59,7 +59,7 @@
                     <div class="footer-copy-right text-center">
                         <p>
                             <!-- Link back to Colorlib can't be removed. Template is licensed under CC BY 3.0. -->
-                            Copyright &copy Kelompok 1 | CC Clinz Laundry
+                            Copyright &copy Kelompok 10 | CC Clinz Laundry
                             {{-- <script>
                                 document.write(new Date().getFullYear());
                             </script> All rights reserved | This template is made with <i

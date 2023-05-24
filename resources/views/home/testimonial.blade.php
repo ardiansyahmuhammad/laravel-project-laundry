@@ -6,22 +6,22 @@
                     <!-- testmonial-image -->
                     <div class="testmonial-nav text-center">
                         <div class="testmonial-thumb">
-                            <img src="home/assets/img/gallery/Adulee.png" class="rounded-circle" alt="Cinque Terre" >
+                            <img src="home/assets/img/gallery/testimonila1.png" alt="">
                         </div>
                         <div class="testmonial-thumb">
-                            <img src="home/assets/img/gallery/IJALLL.png"  class="rounded-circle" alt="Cinque Terre" >
+                            <img src="home/assets/img/gallery/testimonila2.png" alt="">
                         </div>
                         <div class="testmonial-thumb">
-                            <img src="home/assets/img/gallery/Pawji.png" class="rounded-circle" alt="Cinque Terre">
+                            <img src="home/assets/img/gallery/testimonila3.png" alt="">
                         </div>
                         <div class="testmonial-thumb">
-                            <img src="home/assets/img/gallery/Bisma.png" class="rounded-circle" alt="Cinque Terre">
+                            <img src="home/assets/img/gallery/testimonila2.png" alt="">
                         </div>
                     </div>
                     <div class="testmonial-item-active text-center">
                         <!-- testimonial-single-items -->
                         <div class="testmonial-item ">
-                            <p class="pera">Laundry nya rada jauh ya, tapi karena ada proses pengiriman dan pengambilan jadi lebih bagus😍 </p>
+                            <p class="pera">Laundry Clinz bagus banget,pakaian ku jadi bersih & wangi 😍 </p>
                             <div class="rating">
                                 <i class="fas fa-star"></i>
                                 <i class="fas fa-star"></i>
@@ -29,11 +29,11 @@
                                 <i class="fas fa-star"></i>
                                 <i class="fas fa-star"></i>
                             </div>
-                            <p> - Adulee</p>
+                            <p> - Cantika</p>
                         </div>
                         <!-- testimonial-single-items -->
                         <div class="testmonial-item ">
-                            <p class="pera">Recommended Laundry best lah, saya jauh-jauh dari cimahi untung bisa Delivery untuk nyuci😄</p>
+                            <p class="pera">Seneng banget, sekarang gaperlu lagi pergi ke laundry karena udah bisa delivery!😄</p>
                             <div class="rating">
                                 <i class="fas fa-star"></i>
                                 <i class="fas fa-star"></i>
@@ -41,11 +41,11 @@
                                 <i class="fas fa-star"></i>
                                 <i class="fas fa-star"></i>
                             </div>
-                            <p> - Rizal NR</p>
+                            <p> - Diva</p>
                         </div>
                         <!-- testimonial-single-items -->
                         <div class="testmonial-item ">
-                            <p class="pera">Boleh lah, saya setuju! ✨</p>
+                            <p class="pera">Yeyy, Pakaian ku siap dalam 24 jam, Terima kasih Clinz ✨</p>
                             <div class="rating">
                                 <i class="fas fa-star"></i>
                                 <i class="fas fa-star"></i>
@@ -53,21 +53,8 @@
                                 <i class="fas fa-star"></i>
                                 <i class="fas fa-star"></i>
                             </div>
-                            <p> - Pawji</p>
+                            <p> - Riva</p>
                         </div>
-                         <!-- testimonial-single-items -->
-                         <div class="testmonial-item ">
-                            <p class="pera">Laundrynya nagih, soalnya wangi pisan!</p>
-                            <div class="rating">
-                                <i class="fas fa-star"></i>
-                                <i class="fas fa-star"></i>
-                                <i class="fas fa-star"></i>
-                                <i class="fas fa-star"></i>
-                                <i class="fas fa-star"></i>
-                            </div>
-                            <p> - Bisma</p>
-                        </div>
-                        <!-- testimonial-single-items -->
                     </div>
                 </div>
             </div>

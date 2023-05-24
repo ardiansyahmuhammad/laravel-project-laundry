@@ -22,7 +22,7 @@
                         <div class="main-menu d-none d-lg-block">
                             <nav>
                                 <ul id="navigation">
-                                    <li  class="active" ><a href="#home">Beranda</a></li>
+                                    <li class="active" id="btn"><a style="color:orange"href="https://www.itenas.ac.id/">Itenas Web</a></li>
                                     <li  class="active" ><a href="#about">Tentang Kami</a></li>
                                     <li class="active" ><a href="#services">Layanan</a></li>
                                     <li  class="active" ><a href="#map">Lokasi</a></li>
